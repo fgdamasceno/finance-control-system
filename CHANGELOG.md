@@ -1,9 +1,12 @@
 # Changelog
 
-## v0.1 - Estrutura inicial
+## v0.1 - Initial Structure
 
-### Adicionado
+### Added
 
-- estrutura inicial do repositório
-- pastas backend, frontend, docker e docs
-- README inicial
+- initial repository structure
+- backend folder
+- frontend folder
+- docker folder
+- docs folder
+- documentation base
